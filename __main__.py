@@ -1,7 +1,7 @@
-from R_Engine.Builder import EngineBuilder
-from R_Engine.Modules.RecommendModule import RecommendBase
-from R_Engine.Modules.FilteringModule import FilteringBase
-from R_Engine.Modules.FeatureModule import FeatureBase
+from Builder import EngineBuilder
+from Modules.RecommendModule import RecommendBase
+from Modules.FilteringModule import FilteringBase
+from Modules.FeatureModule import FeatureBase
 
 config = {
 

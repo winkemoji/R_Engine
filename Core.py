@@ -1,4 +1,4 @@
-from R_Engine.Mapper import Mapper, Module
+from Mapper import Mapper, Module
 
 
 class Core(metaclass=Module):
